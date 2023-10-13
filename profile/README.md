@@ -12,7 +12,7 @@ Cette organisation GitHub est structurée de manière à faciliter la collaborat
 
 ### Équipes (To Do)
 
-1. **Équipe A** : [Léonard et Vianney](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)
+1. **[Équipe A](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)** : [Léonard](https://github.com/AdelnorAcmorux) et [Vianney](https://github.com/Vianpyro)
 2. **Équipe B** : [Lien vers le Répertoire de l'Équipe B]
 3. **Équipe C** : [Lien vers le Répertoire de l'Équipe C]
 4. **Équipe D** : [Lien vers le Répertoire de l'Équipe D]
@@ -78,7 +78,7 @@ This GitHub organization is structured to facilitate efficient collaboration amo
 
 ### Teams (To Do)
 
-1. **Team A**: [Léonard and Vianney](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)
+1. **[Équipe A](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)** : [Léonard](https://github.com/AdelnorAcmorux) and [Vianney](https://github.com/Vianpyro)
 2. **Team B**: [Link to Team B Repository]
 3. **Team C**: [Link to Team C Repository]
 4. **Team D**: [Link to Team D Repository]
