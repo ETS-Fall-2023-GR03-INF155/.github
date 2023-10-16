@@ -12,8 +12,8 @@ Cette organisation GitHub est structurée de manière à faciliter la collaborat
 
 ### Équipes (To Do)
 
-1. **[Équipe A](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)** : [Léonard](https://github.com/AdelnorAcmorux) et [Vianney](https://github.com/Vianpyro)
-2. **[Ratz](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/ratz)** : [Romain](https://github.com/RomainBoiret)
+1. **[Équipe A](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)** : [Léonard](https://github.com/AdelnorAcmorux) et [Vianney](https://github.com/Vianpyro).
+2. **[Ratz](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/ratz)** : [Romain](https://github.com/RomainBoiret) et [Amorella](https://github.com/amorella).
 3. **Équipe C** : [Lien vers le Répertoire de l'Équipe C]
 4. **Équipe D** : [Lien vers le Répertoire de l'Équipe D]
 5. **Équipe E** : [Lien vers le Répertoire de l'Équipe E]
@@ -78,8 +78,8 @@ This GitHub organization is structured to facilitate efficient collaboration amo
 
 ### Teams (To Do)
 
-1. **[Équipe A](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)**: [Léonard](https://github.com/AdelnorAcmorux) and [Vianney](https://github.com/Vianpyro)
-2. **[Ratz](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/ratz)**: [Romain](https://github.com/RomainBoiret)
+1. **[Équipe A](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)**: [Léonard](https://github.com/AdelnorAcmorux) and [Vianney](https://github.com/Vianpyro).
+2. **[Ratz](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/ratz)**: [Romain](https://github.com/RomainBoiret) and [Amorella](https://github.com/amorella).
 3. **Team C**: [Link to Team C Repository]
 4. **Team D**: [Link to Team D Repository]
 5. **Team E**: [Link to Team E Repository]
