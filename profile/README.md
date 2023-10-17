@@ -10,13 +10,13 @@ Les projets de classe INF155 de l'automne 2023 sont des travaux qui constituent 
 
 Cette organisation GitHub est structurée de manière à faciliter la collaboration efficace entre les équipes tout en maintenant un environnement de projet de classe organisé et unifié. Voici comment est structurée l'organisation :
 
-### Équipes (To Do)
+### Équipes
 
+1. **[dfyguhbnjk](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/dfyguhbnjk)** : [Pablo](https://github.com/Hesus47) et [Yani](https://github.com/Amelo32).
+1. **[Équipe T](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-t)** : [Thierry](https://github.com/ThierryNicolasPouliot).
 1. **[Équipe A](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)** : [Léonard](https://github.com/AdelnorAcmorux) et [Vianney](https://github.com/Vianpyro).
-2. **[Ratz](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/ratz)** : [Romain](https://github.com/RomainBoiret) et [Amorella](https://github.com/amorella).
-3. **[dfyguhbnjk](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/dfyguhbnjk)** : [Pablo](https://github.com/Hesus47) et [Yani](https://github.com/Amelo32)
-4. **Équipe D** : [Lien vers le Répertoire de l'Équipe D]
-5. **Équipe E** : [Lien vers le Répertoire de l'Équipe E]
+1. **[Équipe Z](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-z)** : [Martin](https://github.com/Martinrolo).
+1. **[Ratz](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/ratz)** : [Romain](https://github.com/RomainBoiret) et [Amorella](https://github.com/amorella).
 
 Chaque équipe est responsable de faire ses projets. Il est essentiel de collaborer efficacement au sein de vos équipes pour atteindre les objectifs du projet.
 
@@ -53,8 +53,8 @@ Afin d'assurer le succès de ce projet, nous encourageons tout le monde à respe
 ## Pour Commencer
 
 1. Créez un (seul) repo pour le projet de votre équipe.
-2. Clonez le répertoire sur votre environnement local.
-3. Commencez à collaborer avec votre équipe sur le projet.
+1. Clonez le répertoire sur votre environnement local.
+1. Commencez à collaborer avec votre équipe sur le projet.
 
 N'oubliez pas de consulter le répertoire spécifique de votre équipe pour plus d'instructions et de ressources.
 
