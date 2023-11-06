@@ -12,20 +12,20 @@ Cette organisation GitHub est structurée de manière à faciliter la collaborat
 
 ### Équipes
 
-| Nom d'équipe | Équipier 1 | Équipier 2 | Équipier 3 |
-|:--------:|:--------:|:--------:|:--------:|
-| **[AA](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/aa)**| [?](https://github.com/Rappazax4) | [?](https://github.com/ArunSingam9) | - |
-| **[Blunders](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/blunders)**| [Jules](https://github.com/julesgaudet) | - | - |
-| **[CAA Quebec](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/caa-quebec)**| [Aurelie](https://github.com/Aurelie202) | [?](https://github.com/Azetryx) | [?](https://github.com/ashwiniaxo) |
-| **[dfyguhbnjk](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/dfyguhbnjk)**| [Pablo](https://github.com/Hesus47) | [Yani](https://github.com/Amelo32) | - |
-| **[Équipe A](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)**| [Aline](https://github.com/alinesec) | [Amélie](https://github.com/amelie-lemay) | - |
-| **[Équipe T](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-t)**| [Thierry](https://github.com/ThierryNicolasPouliot) | [Tina](https://github.com/Tinzer9) | - |
-| **[Équipe Z](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-z)**| [Martin](https://github.com/Martinrolo) | [Antoine](https://github.com/AntoineSt-Amour) | - |
-| **[Ratz](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/ratz)**| [Romain](https://github.com/RomainBoiret) | [Amorella](https://github.com/amorella) | - |
-| **[Team](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/team)**| [Ducminh](https://github.com/reverse-smartass) | [Fazil](https://github.com/Pokefaz) | - |
-| **[We play League](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/we-play-league)**| [Léonard](https://github.com/AdelnorAcmorux) | [Vianney](https://github.com/Vianpyro) | - |
-| **[WETHEBESTMUSIC](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/wethebestmusic)**| [?](https://github.com/Mik3Hawk) | [Justin](https://github.com/Justin17-hub) | - |
-| **[Zgegs](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/zgegs)**| [Ali](https://github.com/Ali200303) | [?](https://github.com/Delta-ReFz) | [Samuel](https://github.com/Samuel2001511) | - |
+| Nom d'équipe | Équipier 1 | Équipier 2 | Équipier 3 | Dépôt TP #1 |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| **[AA](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/aa)**| [?](https://github.com/Rappazax4) | [?](https://github.com/ArunSingam9) | - | X |
+| **[Blunders](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/blunders)**| [Jules](https://github.com/julesgaudet) | - | - | X |
+| **[CAA Quebec](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/caa-quebec)**| [Aurelie](https://github.com/Aurelie202) | [?](https://github.com/Azetryx) | [?](https://github.com/ashwiniaxo) | [CAA_Quebec-TP1](https://github.com/ETS-Fall-2023-GR03-INF155/CAA_Quebec-TP1) |
+| **[dfyguhbnjk](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/dfyguhbnjk)**| [Pablo](https://github.com/Hesus47) | [Yani](https://github.com/Amelo32) | - | [TP-1_dfyguhbnjk](https://github.com/ETS-Fall-2023-GR03-INF155/TP-1_dfyguhbnjk) |
+| **[Équipe A](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-a)**| [Aline](https://github.com/alinesec) | [Amélie](https://github.com/amelie-lemay) | - | X |
+| **[Équipe T](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-t)**| [Thierry](https://github.com/ThierryNicolasPouliot) | [Tina](https://github.com/Tinzer9) | - | [TP1_EquipeT](https://github.com/ETS-Fall-2023-GR03-INF155/TP1_EquipeT) |
+| **[Équipe Z](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/equipe-z)**| [Martin](https://github.com/Martinrolo) | [Antoine](https://github.com/AntoineSt-Amour) | - | X |
+| **[Ratz](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/ratz)**| [Romain](https://github.com/RomainBoiret) | [Amorella](https://github.com/amorella) | - | [TP-1_Equipe-Ratz](https://github.com/ETS-Fall-2023-GR03-INF155/TP-1_Equipe-Ratz) |
+| **[Team](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/team)**| [Ducminh](https://github.com/reverse-smartass) | [Fazil](https://github.com/Pokefaz) | - | X |
+| **[We play League](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/we-play-league)**| [Léonard](https://github.com/AdelnorAcmorux) | [Vianney](https://github.com/Vianpyro) | - | [TP-1_Equipe-A](https://github.com/ETS-Fall-2023-GR03-INF155/TP-1_Equipe-A) |
+| **[WETHEBESTMUSIC](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/wethebestmusic)**| [?](https://github.com/Mik3Hawk) | [Justin](https://github.com/Justin17-hub) | - | X |
+| **[Zgegs](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/zgegs)**| [Ali](https://github.com/Ali200303) | [?](https://github.com/Delta-ReFz) | [Samuel](https://github.com/Samuel2001511) | X |
 
 Chaque équipe est responsable de faire ses projets. Il est essentiel de collaborer efficacement au sein de vos équipes pour atteindre les objectifs du projet.
 
