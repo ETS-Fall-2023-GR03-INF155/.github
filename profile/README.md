@@ -25,7 +25,7 @@ Cette organisation GitHub est structurée de manière à faciliter la collaborat
 | **[Team](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/team)**| [Ducminh](https://github.com/reverse-smartass) | [Fazil](https://github.com/Pokefaz) | - | X |
 | **[We play League](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/we-play-league)**| [Léonard](https://github.com/AdelnorAcmorux) | [Vianney](https://github.com/Vianpyro) | - | [TP-1_Equipe-A](https://github.com/ETS-Fall-2023-GR03-INF155/TP-1_Equipe-A) |
 | **[WETHEBESTMUSIC](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/wethebestmusic)**| [?](https://github.com/Mik3Hawk) | [Justin](https://github.com/Justin17-hub) | - | X |
-| **[Zgegs](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/zgegs)**| [Ali](https://github.com/Ali200303) | [?](https://github.com/Delta-ReFz) | [Samuel](https://github.com/Samuel2001511) | X |
+| **[Zgegs](https://github.com/orgs/ETS-Fall-2023-GR03-INF155/teams/zgegs)**| [Ali](https://github.com/Ali200303) | [?](https://github.com/Delta-ReFz) | [Samuel](https://github.com/Samuel2001511) | [TP1inf155](https://github.com/Ali200303/TP1inf155) |
 
 Chaque équipe est responsable de faire ses projets. Il est essentiel de collaborer efficacement au sein de vos équipes pour atteindre les objectifs du projet.
 
